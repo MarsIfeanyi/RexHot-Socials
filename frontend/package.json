@@ -1,0 +1,33 @@
+{
+  "name": "ink.social",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^1.0.11",
+    "boring-avatars": "^1.10.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "viem": "^1.14.0",
+    "wagmi": "^1.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "react-icons": "^4.11.0",
+    "tailwindcss": "latest",
+    "typechain": "^8.3.1",
+    "typescript": "latest"
+  }
+}
