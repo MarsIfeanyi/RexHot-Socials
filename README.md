@@ -15,3 +15,7 @@ Users or creators who got hot from fans for their post can easily redeemed the h
 0x1270Ae31d234C0130D965924d75fB7294706CC79
 
 https://testnet.bscscan.com/address/0x1270Ae31d234C0130D965924d75fB7294706CC79#code
+
+## Live URL
+
+https://rexhot-socials.vercel.app/
